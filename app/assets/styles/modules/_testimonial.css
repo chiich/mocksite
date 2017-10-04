@@ -24,7 +24,7 @@
   }
 
   &__title{
-    color: $main-blue;
+    color: $mainBlue;
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
@@ -36,6 +36,6 @@
     font-size: 0.9735rem;
     margin: 0.25rem 0 1rem 0;
     text-align: center;
-    color: $main-orange;
+    color: $mainOrange;
   }
 }

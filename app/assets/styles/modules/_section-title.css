@@ -27,6 +27,6 @@
   }
 
   &--blue{
-    color: $main-blue;
+    color: $mainBlue;
   }
 }

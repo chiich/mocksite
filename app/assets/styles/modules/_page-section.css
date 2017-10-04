@@ -22,7 +22,7 @@
   }
 
   &--blue{
-    background-color: $main-blue;
+    background-color: $mainBlue;
     color: $white;
   }
 
