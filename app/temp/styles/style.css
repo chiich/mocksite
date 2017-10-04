@@ -1111,3 +1111,51 @@ a{
     margin-right: 1.4rem;
   }
 }
+
+.site-header {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    background-color: rgba(47,85,114, .3);
+    padding: 10px 0;
+}
+
+.site-header__btn-container {
+  float: right;
+}
+
+.site-header__logo {
+  position: absolute;
+  top: 0;
+  background-color: #2f5572;
+  padding: 25px 36px;
+}
+
+.primary-nav--pull-right {
+  float: right;
+}
+
+.primary-nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+.primary-nav ul::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.primary-nav li {
+  list-style: none;
+  float: left;
+  padding-right: 20px;
+}
+
+.primary-nav a {
+  color: white;
+  font-weight: 300;
+  text-decoration: none;
+  display: block;
+  padding: 12px 0;
+}
