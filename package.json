@@ -4,6 +4,7 @@
   "dependencies": {
     "jquery": "^3.1.1",
     "jquery-smooth-scroll": "^2.2.0",
+    "lazysizes": "^4.0.1-beta1",
     "normalize.css": "^5.0.0"
   },
   "devDependencies": {
